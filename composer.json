@@ -1,5 +1,5 @@
 {
-    "name": "muhammadsaim/standalone-blade",
+    "name": "muhammadsaim/standalone-laravel-blade",
     "description": "Laravel Blade v8 for custom MVCs and the codeigniter",
     "type": "library",
     "license": "MIT",

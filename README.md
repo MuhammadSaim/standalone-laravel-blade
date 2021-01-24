@@ -4,6 +4,6 @@ Fully compatible with every php application.
 
 ### installation
 ```shell
-composer install muhammadsaim/standalone-blade
+composer install muhammadsaim/standalone-laravel-blade
 ```
 
